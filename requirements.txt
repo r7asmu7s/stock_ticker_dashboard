@@ -1,0 +1,11 @@
+dash
+dash-core-components
+dash-html-components
+decorator
+numpy
+pandas
+pandas-datareader
+plotly
+pytz
+requests
+gunicorn
